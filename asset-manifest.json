@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f4c4797.css",
+    "main.js": "/static/js/main.544d6dd6.js",
+    "static/media/react-book-1.jpg": "/static/media/react-book-1.dd13f9afa4421d9a37c1.jpg",
+    "static/media/react-book-2.jpg": "/static/media/react-book-2.fe627c6f7b4ec6127d95.jpg",
+    "static/media/react-book-0.jpg": "/static/media/react-book-0.022b0b499388f03bd4e3.jpg",
+    "index.html": "/index.html",
+    "main.9f4c4797.css.map": "/static/css/main.9f4c4797.css.map",
+    "main.544d6dd6.js.map": "/static/js/main.544d6dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f4c4797.css",
+    "static/js/main.544d6dd6.js"
+  ]
+}
